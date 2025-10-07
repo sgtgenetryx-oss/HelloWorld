@@ -1,3 +1,8 @@
 Hello World
 Hallo Mensch
+<<<<<<< HEAD
 Diese Änderung ist ungewollt
+=======
+Diese Änderung ist gewollt
+Diese Änderung ist nicht gewollt
+>>>>>>> 6b664b36a52386b79857eea5bcdb456f34c64129
